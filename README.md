@@ -21,6 +21,8 @@ I'm a beginner developer learning Python and writing bots for Telegram
 - AI
 
 ## 📊 Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingenerochka&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ingenerochka&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ingenerochka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
