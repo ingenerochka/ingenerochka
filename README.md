@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNmNWY5bTU4bDR5dXhwbGJneXhibmIzOGxhcGIyb2FuNHpmZHM3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lXDMqQIZ5U9JnjVhit/giphy.gif" width="200"/>
+</div>
 
 # Мария Камендровская
 
