@@ -14,11 +14,15 @@ I'm a beginner developer learning Python and writing bots for Telegram
 
 ## 🛠 Skills
 - Python
-- HTML
-- SQL
+- Postgres SQL
+- Telegram API
 
 ## 🌱 Also Studying
-- AI
+- Python
+- Postgres SQL
+- Telegram API
+- PEP 8
+- Pandas
 
 ## 📊 Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingenerochka&show_icons=true&theme=radical)
