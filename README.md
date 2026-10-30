@@ -5,17 +5,19 @@
 
 # Мария Камендровская
 
-Начинающий разработчик | Изучаю Python
+Начинающий разработчик | Изучаю Python и HTML/CSS
 
 
 ## 👩🏻‍💻 Обо мне
-Начинающий разработчик, изучаю Python и пишу Telegram-ботов
+Начинающий разработчик, пишу Telegram-ботов и делаю простые сайты
 
 
 ## 🛠 Навыки
 - Python
 - Postgres SQL
 - Telegram API
+- HTML
+- CSS
 
 ## 🌱 Изучаю
 - Python
@@ -23,6 +25,8 @@
 - Telegram API
 - PEP 8
 - Pandas
+- HTML
+- CSS
 
 ## 📊 Статистика
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingenerochka&show_icons=true&theme=radical)
